@@ -1,3 +1,6 @@
+# Course Reference  :  LinkedIn https://www.linkedin.com/learning/angular-essential-training/welcome
+# Clone from        :  Github   https://github.com/coursefiles/angular2-essential-training
+
 # Angular 2 Essential Training
 
 This is the repository for my course, [Angular 2 Essential Training](https://www.lynda.com/AngularJS-tutorials/AngularJS-2-Essential-Training/422834-2.html). 
